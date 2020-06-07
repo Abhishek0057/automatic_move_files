@@ -5,7 +5,7 @@ Tip: It works realtime, use this code for your downloads folder and whenever you
 
 # How to Run
 
-* Install all the packages listed in requirement.txt
+* Install all the packages listed in requirements.txt
   * CMD : pip install -r requirement.txt
 * Set the path for 'folder_to_track' and 'folder_destination' inside 'automatic_move_files.py'
 * Finally run the script 'automatic_move_files.py'
