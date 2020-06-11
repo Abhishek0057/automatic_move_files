@@ -7,6 +7,6 @@ Tip: It works realtime, use this code for your downloads folder and whenever you
 
 * Install all the packages listed in requirements.txt
   * CMD : pip install -r requirement.txt
-* Set the path for 'folder_to_track' and 'folder_destination' inside 'automatic_move_files.py'
+* Set the path for 'FOLDER_TO_TRACK' and 'FOLDER_DESTINATION' inside 'automatic_move_files.py'
   * In my case it is set to Downloads folder of iOS
 * Finally run the script 'automatic_move_files.py'
